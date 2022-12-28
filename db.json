@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Go to the office for work and coding. After the coding prepare for the class with student",
+      "day": "29th December 2pm - 4pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Visit Dickson for coding classes",
+      "day": "Friday 30th December 6pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Eat food now",
+      "day": "29th December",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
